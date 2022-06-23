@@ -1,4 +1,4 @@
-## App Watch
+## App Ops
 
 Want to keep an better eye on your apps performance, errors and usage? 
 
