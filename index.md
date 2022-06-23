@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## App Mind
+
+Want to keep an better eye on your apps performance, errors and usage? 
 
 You can use the [editor on GitHub](https://github.com/mcgsoftware/mojo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
